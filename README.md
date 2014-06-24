@@ -35,4 +35,4 @@ New revision on 07-24-2014:
 ============================
 
 When I am downloading songs for my account, using my email address, I do not want to get a completion acknowledgement email everytime (since I am already receiving it on my gmail). So mt script checks the email address passed as an argument, and if it is me, then it would just echo "Completed" on the command line and will not send any email!
-<Old script has been moved to archive directory>
+(Old script has been moved to archive directory)
