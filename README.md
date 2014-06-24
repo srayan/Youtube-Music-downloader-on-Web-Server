@@ -16,6 +16,8 @@ Pre-requisites:
 3. youtube-dl binaries installed
 4. ffmpeg binaries installed
 
+While this can be built on any LAMP server, I am using a Pogoplug Series 4 model (because it consumes very less electricity and although it has a 700MHz/ 128MB-RAM configuration, it just gets the work done!).
+This project is an attempt to figure out new possibilities with inexpensive embedded devices.
 
 Save the script as scripter.sh in /usr/local/bin
 This will enable you to call the script from anywhere in the directory
