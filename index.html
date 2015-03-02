@@ -24,7 +24,7 @@ function check(form)/*function to check userid & password*/
 /*the following code checkes whether the entered userid and password are matching*/
 if(form.userid.value == "username" && form.pswrd.value == "password")
 {
-window.open('/safelogin')/*opens the target page while Id & password matches*/
+window.open('/safelogin', '_self'/*opens the target page while Id & password matches*/
 }
 else
 {
